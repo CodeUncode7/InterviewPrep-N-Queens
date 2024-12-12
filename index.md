@@ -1,6 +1,6 @@
 # N-Queens Problem: A Classic Interview Challenge
 
-## Introduction: What is the N-Queens Problem?
+## [Introduction: What is the N-Queens Problem?](Introduction.md)
 
 The N-Queens problem is a fascinating puzzle in the world of computer science and mathematics. The objective is to place **N queens** on an **N x N chessboard** in such a way that no two queens threaten each other. This means:
 
