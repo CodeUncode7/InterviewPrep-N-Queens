@@ -1,5 +1,4 @@
 title: "My N-Queens Blog"
 description: "Exploring the N-Queens problem for interview preparation"
-theme: jekyll-theme-architect
 baseurl: "" # Leave this empty unless you’re using a subpath
 url: "https://www.alodaya.com" # Your GitHub Pages URL
