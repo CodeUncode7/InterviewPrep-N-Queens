@@ -11,10 +11,12 @@ The N-Queens problem is a fascinating puzzle in the world of computer science an
 For instance, the **8-Queens Problem** (N=8) is a popular variation where you aim to place 8 queens on an 8x8 chessboard while satisfying these conditions. The problem can be generalized to any N.
 
 ---
-
+<details>
+  <summary>Click to expand: Why is it a Great Interview Problem?</summary>
 ## Why is it a Great Interview Problem?
 
 The N-Queens problem holds a special place in technical interviews, especially for roles involving algorithm design and problem-solving. Here's why:
+</details>
 
 ### 1. **It Tests Core Algorithmic Skills**
 
